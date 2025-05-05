@@ -1,0 +1,11 @@
+{
+  "name": "ga_transform",
+  "version": "1.0.0",
+  "description": "GA4 to RDB transformation with Dataform",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dataform/core": "^3.0.0"
+  }
+}
