@@ -1,5 +1,6 @@
 -- BigQuery のクエリエディタに貼り付け
-CREATE OR REPLACE TABLE `nomadic-archway-456310-g5.analytics_486730796.page_views_summary` AS
+CREATE OR REPLACE TABLE
+  `nomadic-archway-456310-g5.analytics_486730796.page_views_summary` AS
 SELECT
   user_pseudo_id,
   event_name,
