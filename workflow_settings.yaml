@@ -2,8 +2,3 @@ defaultProject: nomadic-archway-456310-g5
 defaultDataset: analytics_486730796
 defaultLocation: US
 
-workflowConfigs:
-  - name: daily_run
-    actions:
-      - '*'
-
